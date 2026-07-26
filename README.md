@@ -21,7 +21,7 @@
 
 ### À propos
 
-Freelance full-stack depuis 5 ans, je travaille en remote sur des projets web et mobile de bout en bout — du brief initial à la mise en production.
+Freelance full-stack depuis 6 ans, je travaille en remote sur des projets web et mobile de bout en bout — du brief initial à la mise en production.
 
 Ce qui m'intéresse, c'est le problème à résoudre : parfois technique, parfois architectural, parfois juste trouver la bonne façon de livrer ce que le client attend vraiment.
 
