@@ -7,7 +7,7 @@
 <p align="center">
   Développeur Full-Stack &nbsp;·&nbsp; Remote Freelance &nbsp;·&nbsp; 6 ans d'expérience
 </p>
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,laravel,supabase,nodejs,docker,postgres,tailwind,vercel,git,github,vscode" />
 </a>
 
