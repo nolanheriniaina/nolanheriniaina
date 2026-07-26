@@ -1,0 +1,17 @@
+name: GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # tous les jours à minuit UTC
+  workflow_dispatch:
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate streak image
+        uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user_id: 276628549
+        env:
+          GITHUB_TOKEN: ${{ secrets.STREAK_TOKEN }}
