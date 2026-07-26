@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nolanheriniaina&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats-nine-self.vercel.app/?user=nolanheriniaina&theme=dark&hide_border=true&count_private=true"/>
 </p>
 
 <h1 align="center">Nolan Heriniaina</h1>
 <p align="center">
-  Développeur Full-Stack &nbsp;·&nbsp; Remote Freelance &nbsp;·&nbsp; 6 ans d'expérience
+  Développeur Full-Stack &nbsp;·&nbsp; Remote Freelance &nbsp;·&nbsp; 5 ans d'expérience
 </p>
 
 <p align="center">
@@ -44,6 +44,14 @@ Ce qui m'intéresse, c'est le problème à résoudre : parfois technique, parfoi
 **Réseau social événements** — chat temps réel, billets QR code, Apple/Google Wallet
 
 **Plugin de caisse WooCommerce** — stocks, facturation, comptabilité (PHP 8 custom)
+
+---
+
+### Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-psi-orpin-51.vercel.app/api?username=nolanheriniaina&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+</p>
 
 ---
 
