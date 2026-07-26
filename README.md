@@ -1,7 +1,12 @@
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nolanheriniaina&theme=dark&hide_border=true"/>
+</p>
+
 <h1 align="center">Nolan Heriniaina</h1>
 <p align="center">
-  Développeur Full-Stack &nbsp;·&nbsp; Remote Freelance &nbsp;·&nbsp; 5 ans d'expérience
+  Développeur Full-Stack &nbsp;·&nbsp; Remote Freelance &nbsp;·&nbsp; 6 ans d'expérience
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -32,13 +37,13 @@ Ce qui m'intéresse, c'est le problème à résoudre : parfois technique, parfoi
 
 ### Projets marquants
 
-🏨 **Plateforme hôtelière** — négociation de prix en temps réel (Supabase Realtime, SSR Next.js)
+**Plateforme hôtelière** — négociation de prix en temps réel (Supabase Realtime, SSR Next.js)
 
-📱 **App patrimoine historique** — 3D gyroscope, mini-jeux, plan interactif (iOS/Android)
+**App patrimoine historique** — 3D gyroscope, mini-jeux, plan interactif (iOS/Android)
 
-🎉 **Réseau social événements** — chat temps réel, billets QR code, Apple/Google Wallet
+**Réseau social événements** — chat temps réel, billets QR code, Apple/Google Wallet
 
-🛒 **Plugin de caisse WooCommerce** — stocks, facturation, comptabilité (PHP 8 custom)
+**Plugin de caisse WooCommerce** — stocks, facturation, comptabilité (PHP 8 custom)
 
 ---
 
@@ -50,5 +55,5 @@ Ce qui m'intéresse, c'est le problème à résoudre : parfois technique, parfoi
 
 ---
 
-📩 **Disponible** pour missions freelance remote ou poste full-stack si le projet est intéressant.
+**Disponible** pour missions freelance remote ou poste full-stack si le projet est intéressant.
 `nolanheriniaina.dev@gmail.com`
