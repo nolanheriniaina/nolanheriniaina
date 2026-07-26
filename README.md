@@ -1,45 +1,82 @@
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak"/>
-  <img src="./profile/github-snake.svg" alt="GitHub snake"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="./profile/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <h1 align="center">Nolan Heriniaina</h1>
+
 <p align="center">
-  Développeur Full-Stack &nbsp;·&nbsp; Remote Freelance &nbsp;·&nbsp; 6 ans d'expérience
+  Full-Stack Developer · Remote Freelance · 6+ Years of Experience
 </p>
-<a href="https://skillicons.dev" align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,laravel,supabase,nodejs,docker,postgres,tailwind,vercel,git,github,vscode" />
-</a>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=nextjs,react,ts,laravel,supabase,nodejs,php,docker,postgres,mysql,tailwind,vercel,aws,git,github,vscode"
+      alt="Tech Stack"
+    />
+  </a>
+</p>
 
 ---
 
-### À propos
+## About
 
-Freelance full-stack depuis 6 ans, je travaille en remote sur des projets web et mobile de bout en bout — du brief initial à la mise en production.
+I'm a Full-Stack Developer with more than six years of experience building web and mobile applications for startups, agencies, and businesses.
 
-Ce qui m'intéresse, c'est le problème à résoudre : parfois technique, parfois architectural, parfois juste trouver la bonne façon de livrer ce que le client attend vraiment.
+I enjoy transforming ideas into reliable products by designing scalable architectures, developing intuitive user experiences, and delivering maintainable code from concept to production.
 
----
-
-### Stack principale
-
-| Front | Back | Mobile | DevOps |
-|-------|------|--------|--------|
-| Next.js, React 18, TypeScript, Tailwind | Laravel, Node.js, Supabase, Strapi | React Native, Ionic, Capacitor | Vercel, Docker, AWS S3, CI/CD |
+My work covers the entire development lifecycle, including product planning, backend architecture, frontend development, mobile applications, deployment, and long-term maintenance.
 
 ---
 
-### Projets marquants
+## Expertise
 
-**Plateforme hôtelière** — négociation de prix en temps réel (Supabase Realtime, SSR Next.js)
-
-**App patrimoine historique** — 3D gyroscope, mini-jeux, plan interactif (iOS/Android)
-
-**Réseau social événements** — chat temps réel, billets QR code, Apple/Google Wallet
-
-**Plugin de caisse WooCommerce** — stocks, facturation, comptabilité (PHP 8 custom)
+- SaaS platform development
+- Business applications and internal tools
+- REST API design and integration
+- Authentication and authorization systems
+- Real-time applications
+- Payment gateway integration
+- Responsive web applications
+- Cross-platform mobile applications
+- Database design and optimization
+- Deployment automation and CI/CD
 
 ---
 
-**Disponible** pour missions freelance remote ou poste full-stack si le projet est intéressant.
-`nolanheriniaina.dev@gmail.com`
+## Selected Projects
+
+### Hotel Booking Platform
+
+A negotiation-based hotel reservation platform featuring real-time updates with Supabase Realtime, server-side rendering using Next.js, secure authentication, and an administration dashboard.
+
+### Historical Heritage Mobile App
+
+A cross-platform mobile application featuring 3D experiences, gyroscope interactions, interactive maps, educational mini-games, and offline capabilities.
+
+### Event Social Platform
+
+A social platform dedicated to events with real-time messaging, QR-code ticketing, Apple Wallet and Google Wallet integration, notifications, and user management.
+
+### WooCommerce POS Extension
+
+A custom point-of-sale extension for WooCommerce including inventory management, invoicing, accounting workflows, and business reporting.
+
+---
+
+## Technologies
+
+- Frontend: Next.js, React, TypeScript, Tailwind CSS
+- Backend: Laravel, Node.js, PHP, Supabase
+- Mobile: React Native, Ionic, Capacitor
+- Database: PostgreSQL, MySQL
+- DevOps: Docker, Vercel, AWS, GitHub Actions
+
+---
+
+## Contact
+
+I'm available for freelance opportunities and full-time remote positions.
+
+- Email: <a href="mailto:nolanheriniaina.dev@gmail.com">nolanheriniaina.dev@gmail.com</a>
