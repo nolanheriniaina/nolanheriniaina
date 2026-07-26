@@ -1,5 +1,6 @@
 <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak"/>
+  <img src="./profile/github-snake.svg" alt="GitHub snake"/>
 </p>
 
 <h1 align="center">Nolan Heriniaina</h1>
