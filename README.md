@@ -47,13 +47,5 @@ Ce qui m'intéresse, c'est le problème à résoudre : parfois technique, parfoi
 
 ---
 
-### Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nolanheriniaina&show_icons=true&theme=default&hide_border=true"/>
-</p>
-
----
-
 **Disponible** pour missions freelance remote ou poste full-stack si le projet est intéressant.
 `nolanheriniaina.dev@gmail.com`
