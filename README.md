@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-streak-stats-nine-self.vercel.app/?user=nolanheriniaina&theme=dark&hide_border=true&count_private=true"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak"/>
 </p>
 
 <h1 align="center">Nolan Heriniaina</h1>
@@ -50,7 +50,7 @@ Ce qui m'intéresse, c'est le problème à résoudre : parfois technique, parfoi
 ### Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-psi-orpin-51.vercel.app/api?username=nolanheriniaina&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats-psi-orpin-51.vercel.app/api?username=nolanheriniaina&show_icons=true&theme=default&hide_border=true"/>
 </p>
 
 ---
